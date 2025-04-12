@@ -1,5 +1,5 @@
-Egyszerű script, amit Terminálban képes vagy felhasználni. 
-Képes Másodfokú egyenletet megoldani és visszajelezni, ha a Determináncs < 0, 
+Egyszerű script, amit Terminálban felhasználhatsz. 
+Képes Másodfokú egyenletet megoldani és visszajelezni, ha a Determináns < 0, 
 kamatoskamatot, számtani sorozatot és mértani sorozatot. 
 
 Tökéletes középiskolás diákok számára, mivel megadott értékekből számítjuk ki a többi értéket, 
