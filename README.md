@@ -12,4 +12,8 @@ Ez a terminálon futó program ideális középiskolás diákok számára, mivel
 
 - Mértani sorozat – A sorozat tagjai és összege is kiszámítható a megadott értékek segítségével.
 
+<<<<<<< HEAD
 ### A program célja, hogy egyszerű és gyors módon segítse a diákokat a tananyag megértésében és a feladatok megoldásában.
+=======
+### A program célja, hogy egyszerű és gyors módon segítse a diákokat a tananyag megértésében és a feladatok megoldásában.
+>>>>>>> 2e8f3117e5cdc88917519e3fd0a6fa58f1dde331
