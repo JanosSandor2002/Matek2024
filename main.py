@@ -20,25 +20,25 @@ while True:
             if p == "1":
                 masodfoku.masodfoku()
             elif p == "2":
-                kamatoskamat()
+                kamatoskamat.kamatoskamat()
             elif p == "3":
-                szamtani()
+                szamtani.szamtani()
             elif p == "4":
-                mertani()
+                mertani.mertani()
             elif p == "5":
-                kombinatorika()
+                kombinatorika.kombinatorika()
             elif p == "6":
                 print("(1)SíkGeometria, (2)Térgeometria, (ENTER)Visszalépés")
                 u = input("Válasz:  ")
                 if u == "1":
-                    sikgeometria()
+                    sikgeometria.sikgeometria()
                 elif u == "2":
-                    tergeometria()
+                    tergeometria.tergeometria()
                 elif u == "":
                     break
             elif p == "7":
-                szög()
+                szög.szög()
             elif p == "8":
-                koordinata()
+                koordinata.koordinata()
             elif p == "":
                 break
