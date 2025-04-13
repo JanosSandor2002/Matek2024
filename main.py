@@ -1,4 +1,9 @@
 import math
+import utmutato
+import masodfoku
+import kamatoskamat
+import szamtani
+import mertani
 
 def border():
 	print("§∆×•~====================~•×∆§")
@@ -410,7 +415,6 @@ def koordináta():
     print("KOORDINÁTAGEOMETRIA")
     print("Nincs még kész")
     border()
-
 while True:
     border()
     print("MATEMATIKA 2024 CHEAT PROGRAM\n(1)Info\n(2)Programok\n(ENTER)Kilépés")
