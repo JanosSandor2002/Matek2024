@@ -1,14 +1,16 @@
 def border():
 	print("§∆×•~====================~•×∆§")
-def utmutato():
+def nincskesz(name):
 	border()
+	print(name+" Nem elérhető még")
+def utmutato():
 	print("Másodfokú egyenlet: Megmondja a gyököket, illetve ha nem lehet megoldani a feladatot.\n5x^2 + 2x - 4 = 0\n 5 -> x^2\n2->x\n-4->Konstans\n")
 	border()
 	print("Kamatoskamat: Kiszámolja a hiányzó adatot, melyek a következők:\nVégösszeg: Tn jelzés\nKezdőösszeg: T0 jelzésű\nIdőszakok száma: n jelzés, ahol vedd figyelembe hogy nem csak évente lehetnek\nKamatláb: p jelzés\nEzen kívül Gyüjtőjáradékot is számol és törlesztőrészletet\n")
 	border()
-	print("Számtani sorozat: Megoldja az 1 és 2 soros számtani sorozatokat.\nKét különböző tag esetén Pl: a5 = 32 és a2 = 20 ekkor kiszámítja a1 és d-t.\nKét egyenlet esetén: a2 + a4 = 20 és a4 + a7 = 34\n Hanyadik tag mindig az a indexére kérdez rá, pl a5 indexe az 5\n")
+	print("Számtani sorozat: Megoldja az 1 és 2 egyenletes számtani sorozatokat.\nKét különböző tag esetén Pl: a5 = 32 és a2 = 20 ekkor kiszámítja a1 és d-t.\nKét egyenlet esetén: a2 + a4 = 20 és a4 + a7 = 34\n Hanyadik tag mindig az a indexére kérdez rá, pl a5 indexe az 5\n")
 	border()
-	print("Mértani sorozat: Megoldja az 1 és 2 soros mértani sorozatokat.\nKét különböző tag esetén Pl: a5 = 32 és a2 = 8 ekkor kiszámítja a1 és q-t.\nKét egyenlet esetén: a2 + a4 = 40 és a4 + a7 = 80\n Hanyadik tag mindig az a indexére kérdez rá, pl a5 indexe az 5\n")
+	print("Mértani sorozat: Megoldja az 1 és 2 egyenletes mértani sorozatokat.\nKét különböző tag esetén Pl: a5 = 32 és a2 = 8 ekkor kiszámítja a1 és q-t.\nKét egyenlet esetén: a2 + a4 = 40 és a4 + a7 = 80\n Hanyadik tag mindig az a indexére kérdez rá, pl a5 indexe az 5\n")
 	border()
 	print("Kombinatorika: Nincs kész\n")
 	border()
