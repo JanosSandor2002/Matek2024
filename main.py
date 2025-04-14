@@ -3,7 +3,7 @@ import utmutato, masodfoku, kamatoskamat, szamtani, mertani, kombinatorika, sikg
 
 utmutato.border()
 while True:
-    print("MATEMATIKA 2024 CHEAT PROGRAM\n(1)Info\n(2)Programok\n(ENTER)Kilépés")
+    print("MATEMATIKA 2024 PROGRAM\n(1)Info\n(2)Programok\n(ENTER)Kilépés")
     a = input("Válasz:  ")
     print("\n")
     utmutato.border()
